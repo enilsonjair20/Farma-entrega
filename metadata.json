@@ -1,0 +1,6 @@
+{
+  "name": "FarmaEntrega",
+  "description": "Aplicación de entrega de medicamentos con seguimiento en tiempo real y gestión de perfil personal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
